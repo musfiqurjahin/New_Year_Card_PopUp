@@ -27,7 +27,7 @@ function createPopup() {
     popupContent.style.transform = 'scale(1)';
     popupContent.style.animation = 'scaleUp 0.6s forwards';
     popupContent.style.border = '2px solid rgb(34, 255, 0)';
-    popupContent.style.background = 'url("../Img/BG-1.gif")';
+    popupContent.style.background = 'url("Img/BG-1.gif")';
     popupContent.style.backgroundSize = 'cover';
     popupContent.style.maxWidth = '90vw';
     popupContent.style.maxHeight = '80vh'; 
